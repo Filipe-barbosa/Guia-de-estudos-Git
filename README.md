@@ -1,4 +1,4 @@
-# Guia-de-estudos-Git.
+
   Olá seja bem-vindo ao guia de inicialização ao Git, me chamo Filipe Barbosa e assim como você sou um entusiasta dos códigos e aluno da PodCodar.
 
   Já ouviu falar em Git? Do que se trata? Para que serve? Bem, vamos responder todas essas questões no decorrer do texto. 
